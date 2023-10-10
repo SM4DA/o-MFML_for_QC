@@ -1,6 +1,6 @@
 # Optimized Multi-Fidelity Machine Learning for Quantum Chemistry
 
-This repository contains the scripts and data to reproduce the results of the work by Vinod _et. al._ titled "Optimized Multi-Fidelity Machine Learning for Quantum Chemistry. The raw data of molecules for the QM7b dataset ca nbe downloaded from [https://achs-prod.acs.org/doi/10.1021/acs.jctc.8b00832#article_content-right][https://achs-prod.acs.org/doi/10.1021/acs.jctc.8b00832#article_content-right]. The rawdata for the Excitation State Energies can be downloaded from [https://github.com/SM4DA/MultiFidelityMachineLearning-for-MolecularExcitationEnergies][https://github.com/SM4DA/MultiFidelityMachineLearning-for-MolecularExcitationEnergies] with explanation present in Vinod _et. al._ (2023).
+This repository contains the scripts and data to reproduce the results of the work by Vinod _et. al._ titled "Optimized Multi-Fidelity Machine Learning for Quantum Chemistry. The raw data of molecules for the QM7b dataset can be downloaded from [https://achs-prod.acs.org/doi/10.1021/acs.jctc.8b00832#article_content-right]. The rawdata for the Excitation State Energies can be downloaded from [https://github.com/SM4DA/MultiFidelityMachineLearning-for-MolecularExcitationEnergies] with explanation present in Vinod _et. al._ (2023).
 
 The scripts in this repository and the plots they reproduce are listed below:
 * `QM7b/GenerateSLATM.py` generates the Global SLATM representation for the 7211 molecules of the QM7b data.
