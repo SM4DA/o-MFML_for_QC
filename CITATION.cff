@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use the software provided in this repository for o-MFML, please cite it as below."
+authors:
+  - family-names: Vinod
+    given-names: Vivin
+    orcid: https://orcid.org/0000-0001-6218-5053
+title: "Optimized Multifidelity Machine Learning"
+version: 0.1.0
+date-released: 2024-03-04
